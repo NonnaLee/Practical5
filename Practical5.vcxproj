@@ -139,17 +139,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FilterForTwoDigitPositive.cpp" />
+    <ClCompile Include="FilterGeneric.cpp" />
+    <ClCompile Include="FilterNonPositive.cpp" />
+    <ClCompile Include="FilterOdd.cpp" />
     <ClCompile Include="MapAbsoluteValue.cpp" />
     <ClCompile Include="MapGeneric.cpp" />
     <ClCompile Include="MapSquare.cpp" />
     <ClCompile Include="MapTriple.cpp" />
     <ClCompile Include="Practical5.cpp" />
+    <ClCompile Include="ReduceGCD.cpp" />
+    <ClCompile Include="ReduceGeneric.cpp" />
+    <ClCompile Include="ReduceMinimum.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FilterForTwoDigitPositive.h" />
+    <ClInclude Include="FilterGeneric.h" />
+    <ClInclude Include="FilterNonPositive.h" />
+    <ClInclude Include="FilterOdd.h" />
     <ClInclude Include="MapAbsoluteValue.h" />
     <ClInclude Include="MapGeneric.h" />
     <ClInclude Include="MapSquare.h" />
     <ClInclude Include="MapTriple.h" />
+    <ClInclude Include="ReduceGCD.h" />
+    <ClInclude Include="ReduceGeneric.h" />
+    <ClInclude Include="ReduceMinimum.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
