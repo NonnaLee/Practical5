@@ -147,7 +147,7 @@
     <ClCompile Include="MapGeneric.cpp" />
     <ClCompile Include="MapSquare.cpp" />
     <ClCompile Include="MapTriple.cpp" />
-    <ClCompile Include="Practical5.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="ReduceGCD.cpp" />
     <ClCompile Include="ReduceGeneric.cpp" />
     <ClCompile Include="ReduceMinimum.cpp" />
